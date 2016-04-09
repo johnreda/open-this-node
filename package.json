@@ -1,0 +1,17 @@
+{
+  "name": "openode",
+  "version": "1.0.0",
+  "description": "Gets a response from a URL using node, parses it into a JSON, outputs automatically to the browser.",
+  "main": "goget.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "john",
+  "license": "ISC",
+  "dependencies": {
+    "open": "0.0.5",
+    "prettyjson": "^1.1.3",
+    "prompt": "^1.0.0",
+    "request": "^2.70.0"
+  }
+}
